@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Gesture Control System",
+    "repo": "theblackswordsman1905/gesture-control-system",
+    "logo": "",
+    "description": "Computer-vision gesture interaction project",
+    "tags": [
+      "Python",
+      "OpenCV"
+    ]
+  },
+  {
+    "name": "Smart IoT Waste Management",
+    "repo": "theblackswordsman1905",
+    "logo": "",
+    "description": "Smart-bin monitoring with ESP32, sensors and IoT connectivity",
+    "tags": [
+      "ESP32",
+      "Arduino",
+      "IoT"
+    ]
+  },
+  {
+    "name": "VibeCheck",
+    "repo": "theblackswordsman1905",
+    "logo": "",
+    "description": "Podcast analytics and visualization dashboard",
+    "tags": [
+      "Flask",
+      "Python",
+      "Pandas"
+    ]
+  },
+  {
+    "name": "Virtual Library",
+    "repo": "theblackswordsman1905",
+    "logo": "",
+    "description": "Searchable digital library web interface",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }
+]
