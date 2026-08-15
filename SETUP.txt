@@ -1,0 +1,20 @@
+FINAL SETUP
+
+1. Copy the contents of this folder into:
+   theblackswordsman1905/theblackswordsman1905
+
+2. Replace YOUR_GMAIL@gmail.com in:
+   README.md
+   dark.svg
+   light.svg
+
+3. Commit and push:
+   git add .
+   git commit -m "Red Guts profile"
+   git push
+
+4. Open GitHub -> Actions and run "Generate Snake" once if needed.
+
+IMPORTANT:
+The hero card is an SVG and references assets/my-photo.jpg and assets/brand-of-sacrifice.jpg.
+Keep those paths exactly as shown.

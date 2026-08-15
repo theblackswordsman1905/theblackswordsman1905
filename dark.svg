@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+   <stop stop-color="#030408"/><stop offset="1" stop-color="#0c090d"/>
+ </linearGradient>
+ <pattern id="grid" width="40" height="32" patternUnits="userSpaceOnUse">
+   <path d="M40 0H0V32" fill="none" stroke="#17151b" stroke-width="1"/>
+ </pattern>
+ <linearGradient id="scan" x1="0" x2="1">
+   <stop stop-color="#4b060b" stop-opacity="0"/>
+   <stop offset=".5" stop-color="#ff2020" stop-opacity=".9"/>
+   <stop offset="1" stop-color="#4b060b" stop-opacity="0"/>
+ </linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+  .m{font-family:monospace}.red{fill:#ff2020}.white{fill:#f3f3f3}.muted{fill:#85838d}
+  .small{font-size:12px}.body{font-size:13px}.head{font-size:21px;font-weight:700}
+  @keyframes scan {0%{transform:translateY(0)}100%{transform:translateY(430px)}}
+  .scanner{animation:scan 3.2s linear infinite}
+  @keyframes pulse {0%,100%{opacity:.35}50%{opacity:1}}
+  .pulse{animation:pulse 1.6s ease-in-out infinite}
+ </style>
+</defs>
+
+<rect width="1200" height="620" rx="18" fill="url(#bg)"/>
+<rect x="2" y="2" width="1196" height="616" rx="18" fill="url(#grid)" stroke="#8b1118" stroke-width="2"/>
+<line x1="10" y1="48" x2="1190" y2="48" stroke="#421116"/>
+<circle cx="28" cy="25" r="5" fill="#ff4040"/><circle cx="45" cy="25" r="5" fill="#d6a33e"/><circle cx="62" cy="25" r="5" fill="#55c878"/>
+<text x="380" y="29" class="m small muted">ganesh.ramasane@github ~ % ./profile.sh --live</text>
+
+<text x="38" y="70" class="m small red">VISUAL.MAP</text>
+<rect x="38" y="88" width="510" height="474" rx="8" fill="#020307" stroke="#b21820" stroke-width="2"/>
+<image href="assets/my-photo.jpg" x="39" y="89" width="508" height="472" preserveAspectRatio="xMidYMid slice"/>
+<rect x="39" y="89" width="508" height="472" fill="#5b050a" opacity=".10"/>
+
+<!-- Brand of Sacrifice badge -->
+<g class="pulse">
+ <circle cx="492" cy="145" r="51" fill="#03050a" stroke="#ff2020" stroke-width="2"/>
+ <image href="assets/brand-of-sacrifice.jpg" x="454" y="107" width="76" height="76" preserveAspectRatio="xMidYMid meet"/>
+ <text x="453" y="212" class="m small red">BRAND // ACTIVE</text>
+</g>
+
+<!-- animated scan -->
+<rect class="scanner" x="39" y="100" width="508" height="3" fill="url(#scan)" opacity=".9"/>
+
+<text x="580" y="84" class="m head red">SYSTEM.INFO</text>
+<line x1="580" y1="108" x2="1155" y2="108" stroke="#3b1c22"/>
+
+<rect x="580" y="122" width="360" height="29" rx="4" fill="#4b090e"/>
+<text x="594" y="142" class="m body white">GANESH RAMASANE</text>
+
+<g class="m body">
+ <text x="580" y="184" class="red">Subject</text><line x1="665" y1="180" x2="1020" y2="180" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="184" class="white">Ganesh Ramasane</text>
+ <text x="580" y="216" class="red">Role</text><line x1="665" y1="212" x2="1020" y2="212" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="216" class="white">Developer / Student</text>
+ <text x="580" y="248" class="red">Origin</text><line x1="665" y1="244" x2="1020" y2="244" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="248" class="white">Pune, India</text>
+ <text x="580" y="280" class="red">Education</text><line x1="665" y1="276" x2="1020" y2="276" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="280" class="white">B.Tech CSE</text>
+ <text x="580" y="312" class="red">Status</text><line x1="665" y1="308" x2="1020" y2="308" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="312" fill="#6cff83">Building + Learning</text>
+ <text x="580" y="344" class="red">ToolChain</text><line x1="665" y1="340" x2="1020" y2="340" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="344" class="white">C/C++ • Python • Arduino</text>
+ <text x="580" y="376" class="red">Core.Lang</text><line x1="665" y1="372" x2="1020" y2="372" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="376" class="white">C • C++ • Python</text>
+ <text x="580" y="408" class="red">Core.Embedded</text><line x1="665" y1="404" x2="1020" y2="404" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="408" class="white">ESP32 • IoT • Sensors</text>
+ <text x="580" y="440" class="red">Core.Web</text><line x1="665" y1="436" x2="1020" y2="436" stroke="#35313a" stroke-dasharray="3 6"/><text x="1035" y="440" class="white">HTML • CSS • JavaScript</text>
+</g>
+
+<text x="580" y="480" class="m small muted">- Contact</text>
+<line x1="665" y1="476" x2="1155" y2="476" stroke="#35313a" stroke-dasharray="3 6"/>
+<text x="580" y="512" class="m body red">Grid.Mail</text>
+<text x="700" y="512" class="m body white">YOUR_GMAIL@gmail.com</text>
+<text x="580" y="548" class="m small muted">&gt; More about me &amp; projects below in README</text>
+<rect x="1100" y="536" width="8" height="14" fill="#ff2020" filter="url(#glow)"/>
+
+<line x1="38" y1="582" x2="1160" y2="582" stroke="#ff2020" stroke-width="2"/>
+<text x="40" y="603" class="m small muted">GUTS // PROFILE ONLINE</text>
+<text x="1025" y="603" class="m small red">ACCESS: GRANTED</text>
+</svg>
