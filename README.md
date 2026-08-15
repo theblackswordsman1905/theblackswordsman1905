@@ -1,56 +1,147 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Ganesh Ramasane red Guts themed profile card">
-</picture>
+# 🔴 GANESH RAMASANE
+
+### `Computer Science Engineering Student` · `Embedded Systems` · `IoT` · `Python`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:8f0616,100:ff2038&height=180&section=header&text=THE%20BLACK%20SWORDSMAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<a href="https://github.com/theblackswordsman1905">
+  <img src="https://img.shields.io/badge/GitHub-theblackswordsman1905-ff2038?style=for-the-badge&logo=github&logoColor=white&labelColor=050608" />
+</a>
+<a href="https://github.com/theblackswordsman1905">
+  <img src="https://img.shields.io/badge/PROFILE-ACTIVE-36f58b?style=for-the-badge&labelColor=050608" />
+</a>
 
 </div>
 
-<br>
+---
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=theblackswordsman1905&hide_border=true&background=05070d&stroke=8b1118&ring=ff2020&fire=ff2020&currStreakLabel=ff2020&sideLabels=9ca3af&currStreakNum=f8fafc&sideNums=f8fafc&dates=6b7280&titleColor=ff2020" alt="GitHub streak">
-</p>
+## `01 // SYSTEM.INFO`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theblackswordsman1905&show_icons=true&hide_border=true&bg_color=05070d&title_color=ff2020&icon_color=ff2020&text_color=ffffff&count_private=true" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblackswordsman1905&layout=compact&hide_border=true&bg_color=05070d&title_color=ff2020&text_color=ffffff&langs_count=8" alt="Top languages">
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     GANESH RAMASANE                          │
+├──────────────────────────────────────────────────────────────┤
+│ ROLE        → Computer Science Engineering Student           │
+│ EDUCATION   → B.Tech CSE | Vishwakarma University           │
+│ PERIOD      → 2025 – 2029                                    │
+│ FOCUS       → Embedded Systems • IoT • Python • Web          │
+│ LOCATION    → Pune, India                                    │
+│ STATUS      → BUILDING + LEARNING                           │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<br>
+### ⚡ About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theblackswordsman1905/theblackswordsman1905/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/theblackswordsman1905/theblackswordsman1905/output/github-contribution-grid-snake.svg">
-</picture>
+I'm a **B.Tech Computer Science & Engineering student** interested in building practical systems that combine software, electronics and connected devices.
 
-<br><br>
+My current interests include **Arduino, ESP32, sensors, IoT, Python, data analysis and web development**.
 
-## Projects
+---
 
-| Project | Description | Stack |
-|---|---|---|
-| **Smart IoT Waste Management** | Smart-bin monitoring with fill sensing, GPS and cloud connectivity | ESP32 • Arduino • IoT |
-| **Hand Gesture Control** | Computer-vision gesture interaction | Python • OpenCV |
-| **VibeCheck** | Podcast analytics and visualization dashboard | Flask • Python • Pandas |
-| **Virtual Library** | Searchable digital library interface | HTML • CSS • JavaScript |
-
-<br>
+## `02 // TECH.ARSENAL`
 
 <div align="center">
 
-<img src="./assets/brand-of-sacrifice.jpg" width="120" alt="Brand of Sacrifice">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,html,css,js,flask&theme=dark" />
 
 <br><br>
 
+`C / C++` · `Python` · `Arduino` · `ESP32` · `HTML` · `CSS` · `JavaScript` · `Flask` · `Pandas`
+
+</div>
+
+---
+
+## `03 // PROJECT.LOG`
+
+### 🔴 Smart IoT Waste Management
+
+> Automated smart-bin system using ESP32, ultrasonic sensors, GPS and cloud-connected monitoring.
+
+**Stack:** `ESP32` `Arduino` `HC-SR04` `GPS` `IoT`
+
+### 🔴 Hand Gesture Control
+
+> Computer-vision project exploring real-time hand detection and gesture-based interaction.
+
+**Stack:** `Python` `OpenCV` `Computer Vision`
+
+### 🔴 VibeCheck
+
+> Podcast analytics dashboard with data processing and interactive visualization.
+
+**Stack:** `Flask` `Python` `Pandas` `Chart.js`
+
+### 🔴 Virtual Library
+
+> Premium digital library interface with search, categories, sorting and book discovery.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+## `04 // GITHUB.ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theblackswordsman1905&show_icons=true&hide_border=true&bg_color=050608&title_color=ff2038&icon_color=ff2038&text_color=c7cbd1" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblackswordsman1905&layout=compact&hide_border=true&bg_color=050608&title_color=ff2038&text_color=c7cbd1" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=theblackswordsman1905&hide_border=true&background=050608&stroke=8f0616&ring=ff2038&fire=ff2038&currStreakLabel=ff2038&sideLabels=8c929d&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&titleColor=ff2038" width="100%" />
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION.SNAKE`
+
+<div align="center">
+
+### 🐍 THE SNAKE IS ALIVE
+
 <a href="https://github.com/theblackswordsman1905">
-<img src="https://img.shields.io/badge/GitHub-05070d?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2020" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/theblackswordsman1905/theblackswordsman1905/output/snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 </a>
 
-<a href="mailto:YOUR_GMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-05070d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8b1118" alt="Gmail">
+</div>
+
+> **Note:** The contribution snake above requires a GitHub Actions workflow in your profile repository. Your local `index.html` also contains a separate animated snake that works immediately in the browser.
+
+---
+
+## `06 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/theblackswordsman1905">
+<img src="https://img.shields.io/badge/GITHUB-THEBLACKSWORDSMAN1905-ff2038?style=for-the-badge&logo=github&logoColor=white&labelColor=050608" />
 </a>
+
+<br><br>
+
+### 🌐 Full Animated Website
+
+<a href="https://theblackswordsman1905.github.io/theblackswordsman1905/">
+<img src="https://img.shields.io/badge/OPEN%20MY%20ANIMATED%20WEBSITE-050608?style=for-the-badge&logo=googlechrome&logoColor=ff2038" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+ACCESS: GRANTED
+SYSTEM: ONLINE
+PROFILE: GANESH RAMASANE
+```
+
+**© Ganesh Ramasane · Built with code + curiosity**
 
 </div>
